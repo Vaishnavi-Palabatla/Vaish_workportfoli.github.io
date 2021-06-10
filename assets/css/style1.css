@@ -466,6 +466,11 @@ body {
     padding: 20px 0;
     width: 100%;
   }
+  .img-fluid{
+    border: 2px solid rgb(43, 43, 54);
+    height: 160px;
+    width:320px;
+  }
   
   .about .content .count-box i {
     display: block;
