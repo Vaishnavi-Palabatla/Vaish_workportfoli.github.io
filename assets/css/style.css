@@ -508,9 +508,9 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/vaishnavi.jpeg") center center no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 350px;
 }
 
 @media (max-width: 991px) {
